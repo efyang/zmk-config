@@ -2,7 +2,7 @@
 if SHIELD_SWEEP_ENCODER_LEFT
 
 config ZMK_KEYBOARD_NAME
-	default "Sweep with Encoder Left"
+	default "Sweep-enc Left"
 
 config ZMK_SPLIT_BLE_ROLE_CENTRAL
 	default y
@@ -13,7 +13,7 @@ endif
 if SHIELD_SWEEP_ENCODER_RIGHT
 
 config ZMK_KEYBOARD_NAME
-	default "Sweep with Encoder Right"
+	default "Sweep-enc Right"
 
 endif
 
