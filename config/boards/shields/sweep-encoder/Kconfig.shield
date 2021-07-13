@@ -1,0 +1,8 @@
+# Copyright (c) 2020 Pete Johanson
+# SPDX-License-Identifier: MIT
+
+config SHIELD_SWEEP_ENCODER_LEFT
+	def_bool $(shields_list_contains,sweep-encoder_left)
+
+config SHIELD_SWEEP_ENCODER_RIGHT
+	def_bool $(shields_list_contains,sweep-encoder_right)
