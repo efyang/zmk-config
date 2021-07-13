@@ -3,7 +3,7 @@
  *
  * SPDX-License-Identifier: MIT
  */
-#include "sweepv2.dtsi"
+#include "sweep-encoder.dtsi"
 
 
 
