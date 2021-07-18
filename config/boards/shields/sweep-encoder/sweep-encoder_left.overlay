@@ -5,8 +5,6 @@
  */
 #include "sweep-encoder.dtsi"
 
-
-
-
-
-
+&left_encoder {
+    status = "okay";
+};

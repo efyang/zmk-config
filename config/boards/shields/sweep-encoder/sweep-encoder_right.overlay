@@ -6,8 +6,9 @@
 #include "sweep-encoder.dtsi"
 
 &default_transform {
-	col-offset = <17>;
+	col-offset = <18>;
 };
 
-
-
+&right_encoder {
+    status = "okay";
+};
