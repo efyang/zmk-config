@@ -106,7 +106,7 @@
 		bindings = <
 		&kp NUM_1  &kp NUM_2    &kp NUM_3    &kp NUM_4    &kp NUM_5 			&kp NUM_6  &kp NUM_7 &kp NUM_8 &kp NUM_9 &kp NUM_0 
 		&kp F1 &kp F2 &kp F3 &kp F4 &kp F5  						&kp CAPS  &kp PG_UP  &kp K_VOL_UP &kp K_MUTE &trans 
-		&bt BT_CLR  &bt BT_NXT &bt BT_PRV &kp F6 &kp F7   				&trans &kp PG_DN  &kp K_VOL_DN  &trans &trans   
+		&bt BT_CLR  &bt BT_SEL 0 &bt BT_SEL 1 &kp F6 &kp F7   				&trans &kp PG_DN  &kp K_VOL_DN  &trans &trans   
 					 &trans &trans  					&trans &trans 
 		>;
 		};	
